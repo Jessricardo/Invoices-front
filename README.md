@@ -1,4 +1,4 @@
-# todo-front
+# invoices-front
 
 Created by Jesús Ricardo Apodaca Atondo using the React.js Boilerplate
 
